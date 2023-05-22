@@ -57,7 +57,7 @@
   --onboard-wallet-button-background-hover: var(--color-background-light);
   --onboard-wallet-button-background-active: var(--color-background-light);
   /* Needs to be brighter than var(--color-primary-main) to compensate for shadow blur */
-  --onboard-wallet-button-box-shadow-hover: 0 0 2px #00fd00;
+  --onboard-wallet-button-box-shadow-hover: 0 0 2px #cd2808;
 
   /* Fonts */
   --onboard-font-family-normal: DM Sans, sans-serif;
